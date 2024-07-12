@@ -5,5 +5,5 @@
 
 Coisas Sobre Mim:
 
-- 📓 Estudando Análise de Desenvolvimento de Sistemas - Unifametro 2° Semestre.
+- 📓 Estudando Análise e Desenvolvimento de Sistemas - Unifametro 2° Semestre.
 - 💻 Cursando Full Stack na Digital College.
